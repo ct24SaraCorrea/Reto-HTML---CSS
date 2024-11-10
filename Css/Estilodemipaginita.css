@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Faculty Glyphic", sans-serif;
+     background-color: aliceblue;
+}
+
+h1{
+    color: rgb(197, 96, 116);
+    text-align: center;
+}
+.texto-parrafo{
+    margin: 15px;
+    text-align: center;
+    color: darkblue;
+    font-size: medium;
+}
+
